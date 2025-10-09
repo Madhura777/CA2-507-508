@@ -4,7 +4,6 @@
 This project implements a **cloud-native Electronic Health Record (EHR)** is a cloud-native healthcare application designed to digitize and streamline patient data management. System that securely manages patient data and appointments.  
 The project demonstrates the implementation of a complete DevOps lifecycle using modern technologies such as Node.js, MongoDB, Docker, Kubernetes, Ansible, Prometheus, Grafana, and GitHub Actions. Through containerization, automation, orchestration, and monitoring, the system ensures reliability, scalability, and efficient deployment. This project not only highlights technical integration but also emphasizes the importance of automation and observability in healthcare IT solutions.
 
----
 
 ## Features  
 
@@ -17,7 +16,7 @@ The project demonstrates the implementation of a complete DevOps lifecycle using
 - **CI/CD (GitHub Actions)** – Builds and pushes Docker images automatically.  
 - **Monitoring (Prometheus + Grafana)** – Collects metrics and visualizes application health.
 
----
+
 
 ### Key Components
 | Component | Description |
@@ -30,7 +29,7 @@ The project demonstrates the implementation of a complete DevOps lifecycle using
 | **Ansible** | Environment provisioning and setup |
 | **GitHub Actions** | CI/CD automation for build and deploy |
 
----
+
 
 ## Tech Stack  
 
@@ -46,7 +45,6 @@ The project demonstrates the implementation of a complete DevOps lifecycle using
 | **CI/CD** | GitHub Actions |
 | **Version Control** | Git + GitHub |
 
----
 
 ## Setup and Deployment  
 
@@ -111,14 +109,12 @@ Workflow .github/workflows/docker.yml builds and pushes Docker images to Docker 
 - **Prometheus Target Discovery Errors:** Adjusted job names and full DNS to resolve metrics scraping issues.  
 - **CI/CD Authentication Issues:** Encountered Docker Hub token errors during automated pushes.  
 
----
 
 ## Learnings & Outcomes
 - Hands-on understanding of the **complete DevOps lifecycle** — from development to deployment.  
 - Mastered **CI/CD pipelines, container orchestration, and monitoring** in real-world workflow.  
 - Learned to **debug and integrate** multiple tools like Docker, Kubernetes, and Prometheus cohesively.
 
----
 
 ## Contributors
 - **Madhura Aher (23070122507)**
