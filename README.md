@@ -1,5 +1,4 @@
 # Electronic Health Record (EHR) System  
-*A Containerized, Monitored, and Automated Healthcare Application*
 
 ---
 
