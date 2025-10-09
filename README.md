@@ -97,7 +97,6 @@ ansible-playbook -i inventory.ini playbook.yml --ask-become-pass
 Workflow .github/workflows/docker.yml builds and pushes Docker images to Docker Hub whenever code is pushed to main.
 
 ---
----
 
 ## Screenshots
 | Description | Screenshot |
